@@ -1,0 +1,26 @@
+
+.highlight {
+
+    background-color: #f8f8f8;
+    margin: 16px 0;
+    padding: 2px 4px;
+    font: 13px Consolas, 'Courier New', monospace;
+
+    & .c1 {
+        color: #06a;
+        font-style: italic;
+    }
+
+    & .k,
+    & .kt {
+        font-weight: bold;
+    }
+
+    & .m {
+        color: #a00;
+    }
+
+    & .p {
+        color: #aaa;
+    }
+}
